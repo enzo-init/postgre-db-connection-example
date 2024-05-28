@@ -1,0 +1,16 @@
+{
+  "name": "postgre-db-back",
+  "version": "1.0.0",
+  "description": "node-express postgres db connection",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run start"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.1",
+    "pg": "^8.11.5"
+  }
+}
